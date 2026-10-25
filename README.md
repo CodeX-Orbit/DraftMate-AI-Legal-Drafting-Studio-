@@ -35,7 +35,7 @@ python run.py
 Open `http://127.0.0.1:8000` in your browser.
 
 ## 🌐 Live Demo
-🚀 Explore DraftMate AI- http://127.0.0.1:8000 
+🚀 Explore DraftMate AI- https://zw6sfvw0-8000.inc1.devtunnels.ms/
 
 ## 👥 Team CodeX
 - **Team Leader:** Atharva Srivastava
